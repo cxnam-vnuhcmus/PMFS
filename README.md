@@ -1,5 +1,7 @@
 # PMFS: Progressive Mouth-to-Face Synthesis for Realistic Talking Face Generation
 
+## The source code will be made public after the journal paper is accepted.
+
 ## Click on the image to watch the demo
 
 ### Description:
