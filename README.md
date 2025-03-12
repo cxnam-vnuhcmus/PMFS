@@ -25,22 +25,18 @@
   <table>
     <tr>
       <td align="center">
-        - Audio sample: 1001_DFA_ANG_XX
-        - Target Face: M003_Angry_Level01_005
+        <p><b>Audio sample:</b> 1001_DFA_ANG_XX</p>
+        <p><b>Target Face:</b> M003_Angry_Level01_005</p>
         <a href="https://youtube.com/shorts/_z_0_uXIVDQ?feature=share" target="_blank" rel="noopener noreferrer">
           <img src="assets/Thumbnail_M003Angry01005.jpg" width="300">
         </a>
-        <br>
-        <b>Video 1</b>
       </td>
       <td align="center">
-        - Audio sample: M003_Angry_Level01_002
-        - Target Face: Vietnamese
+        <p><b>Audio sample:</b> M003_Angry_Level01_002</p>
+        <p><b>Target Face:</b> Vietnamese</p>
         <a href="https://youtube.com/shorts/FGsDcgrDVWs?feature=share" target="_blank" rel="noopener noreferrer">
           <img src="assets/Thumbnail_VTV_M003Angry01005.jpg" width="300">
         </a>
-        <br>
-        <b>Video 2</b>
       </td>
     </tr>
   </table>
