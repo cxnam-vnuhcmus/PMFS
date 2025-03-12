@@ -16,6 +16,12 @@
   <img src="https://img.youtube.com/vi/twI6TZMnpT8/maxresdefault.jpg" width="600">
 </a>
 
+## More sample
+### Using a video of an Asian individual to assess the model's ability to generalize across different identities
+<a href="https://youtube.com/shorts/RiWETJJtLGw?feature=share">
+  <img src="assets/Thumbnail_VTV_M003Angry01005.jpg" width="600">
+</a>
+
 ## Ablation study
 Comparison of image synthesis quality under different conditions. The first two rows compare reference images from the driven video and a random video. The next two rows show results with and without warping. The last two rows illustrate the impact of background presence. The final image in each row is an enhanced heatmap visualization, highlighting synthesis errors.
 
