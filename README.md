@@ -19,7 +19,7 @@
 ## More sample
 ### Using a video of an Asian individual to assess the model's ability to generalize across different identities
 <a href="https://youtube.com/shorts/RiWETJJtLGw?feature=share">
-  <img src="assets/Thumbnail_VTV_M003Angry01005.jpg" width="600">
+  <img src="assets/Thumbnail_VTV_M003Angry01005.jpg" width="300">
 </a>
 
 ## Ablation study
