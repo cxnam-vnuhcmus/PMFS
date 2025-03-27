@@ -17,8 +17,8 @@
 - The **CREMA-D** dataset was not used for training at all.
 - The video quality on YouTube may be reduced. You can watch the demo video directly at `assets/compare.mp4`.
 
-<a href="https://youtube.com/shorts/twI6TZMnpT8?feature=share" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/twI6TZMnpT8/maxresdefault.jpg" width="600">
+<a href="https://youtube.com/shorts/ZnmVPP7X8kU?feature=share" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/ZnmVPP7X8kU/maxresdefault.jpg" width="600">
 </a>
 
 ## More sample
