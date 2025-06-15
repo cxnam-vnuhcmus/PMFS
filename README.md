@@ -21,6 +21,12 @@
   <img src="https://img.youtube.com/vi/ZnmVPP7X8kU/maxresdefault.jpg" width="600">
 </a>
 
+## Comparison of Synthesized Image Quality with Different Emotions
+<a href="https://youtu.be/QQ9e_SCqbb8" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/cxnam-vnuhcmus/PMFS/blob/main/assets/DifferenceEmotion.png" width="600">
+</a>
+
+
 ## More sample
 ### Notes:
 - The video quality on YouTube may be reduced. You can watch the demo video directly at folder `assets`.
